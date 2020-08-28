@@ -1,0 +1,46 @@
+.buttonVoltar {
+    width: 100px;
+    color: black;
+    background-color: lightgray;
+    border: 3;
+    font-size: 14px;
+    padding: 5px 0 5px 0;
+    margin-bottom: 10px;
+}
+
+.textoExemplo {
+    width: 100%;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: max-content;
+}
+
+.content>div {
+    margin-right: 5px;
+    float: left;
+}
+
+.content div>div {
+    right: 100px;
+    text-align: center;
+    position: relative;
+}
+
+a:link {
+    background-color: black;
+    color: #FFF;
+    text-decoration: none;
+}
+
+a:visited {
+    background-color: pink;
+    color: red;
+}
+
+a:hover {
+    background-color: green;
+}
